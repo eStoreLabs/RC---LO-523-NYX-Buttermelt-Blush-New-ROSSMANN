@@ -316,7 +316,7 @@
 
   #es-rc #es-rc-content .es-application__container {
     gap: 5px;
-
+    align-items: flex-start;
   }
 
   #es-rc #es-rc-content .es-application__single {
